@@ -26,7 +26,7 @@ const greeting = {
     "A passionate Full Stack Java Developer 🚀 having an experience of building Web and design applications ,software with JavaScript / Reactjs / Nodejs / Next.js and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ETTaqkpQnYK5TkZ1qE0ekpXocScOymbe/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/uc?export=download&id=1xmvnhkPMRq866UoX7pU9PiMZHUtnzI3_", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -37,7 +37,7 @@ const socialMediaLinks = {
   linkedin: " https://www.linkedin.com/in/jigyansha-rout-0b1a2b1b4/",
   gmail: "routjig09@gmail.com",
   medium: "https://medium.com/@routjig09",
-  instagram: "https://www.instagram.com/jigyansha_rout/",
+  instagram: "https://www.instagram.com/jiggs_xd/",
   x:"https://x.com/JigyanshaRout",
   display: true // Set true to display this section, defaults to false
 };
@@ -291,27 +291,27 @@ const achievementSection = {
 
 // Blogs Section
 
-const blogSection = {
-  title: "Blogs",
-  subtitle:
-    "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
-  displayMediumBlogs: "true", // Set true to display fetched medium blogs instead of hardcoded ones
-  blogs: [
-    {
-      url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
-      title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
-      description:
-        "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
-    },
-    {
-      url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
-      title: "Why REACT is The Best?",
-      description:
-        "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
-    }
-  ],
-  display: false // Set false to hide this section, defaults to true
-};
+// const blogSection = {
+//   title: "Blogs",
+//   subtitle:
+//     "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
+//   displayMediumBlogs: "true", // Set true to display fetched medium blogs instead of hardcoded ones
+//   blogs: [
+//     {
+//       url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
+//       title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
+//       description:
+//         "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
+//     },
+//     {
+//       url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
+//       title: "Why REACT is The Best?",
+//       description:
+//         "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
+//     }
+//   ],
+//   display: false // Set false to hide this section, defaults to true
+// };
 
 // Talks Sections
 
@@ -383,7 +383,6 @@ export {
   openSource,
   bigProjects,
   achievementSection,
-  blogSection,
   talkSection,
   podcastSection,
   contactInfo,
